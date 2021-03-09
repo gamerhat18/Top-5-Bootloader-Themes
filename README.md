@@ -1,8 +1,8 @@
-# Top 10 GRUB Bootloader Themes
+# Top 5 GRUB Bootloader Themes
  
-Installation
+## Usage
 
-```
+```bash
 git clone https://github.com/gamerhat18/grub-theme-switcher
 cd grub-theme-switcher
 sudo ./install.sh
