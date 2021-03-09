@@ -1,11 +1,10 @@
-# Top 5 Bootloader Themes
+# Top 10 GRUB Bootloader Themes
  
 Installation
 
 ```
-git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
-cd Top-5-Bootloader-Themes
+git clone https://github.com/gamerhat18/grub-theme-switcher
+cd grub-theme-switcher
 sudo ./install.sh
 ```
 
-Full Walkthrough <https://christitus.com/bootloader-themes>
